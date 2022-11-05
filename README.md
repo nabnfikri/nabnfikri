@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabnfikri
-- 👀 I’m interested in big data
+- 👀 I’m interested in data
 - 🌱 I’m currently learning data science
 - 📫 How to reach me nabilahn9@gmail.com
 
